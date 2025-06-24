@@ -19,3 +19,5 @@ const nextConfig = {
 export default nextConfig;
 
 // ashish yadav
+
+// i crates a new filees wheere i want to create something
